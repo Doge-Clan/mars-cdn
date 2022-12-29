@@ -1,0 +1,5 @@
+{
+  "entrypoint": "cdn/pm_d1.js",
+  "version": "d1",
+  "bootmode": "module",
+}
